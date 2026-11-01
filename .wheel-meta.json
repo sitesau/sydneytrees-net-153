@@ -1,0 +1,22 @@
+{
+  "wheel_id": 612,
+  "structure": "umbrella",
+  "slug": "sydneytrees-net-153",
+  "project": "tree-services-sydney-timeline-84ef5b7b930741ba7c35040f5166fa803",
+  "parent_t1_ref": "sydneytrees.net-010",
+  "node_role": "buffer",
+  "money_target": "sydneytrees.net.au",
+  "primary_kw": "tree services sydney timeline",
+  "intended_url": "https://aumedia.neocities.org/tree-services-sydney-timeline-84ef5b7b930741ba7c35040f5166fa803/",
+  "tier": "T2",
+  "writeback_nonce": "02dbf7d206408dc1",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/sydneytrees.net-010/tree-services-sydney.html",
+      "anchor": "a guide to tree services sydney",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
